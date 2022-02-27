@@ -6,7 +6,7 @@
 - La tuberculosis es una enfermedad que se da en todas las regiones del mundo [1].
 - El saber por qué la gente muere de Tuberculosis permite determinar qué causas pueden ser prevenibles y cuáles no, así permitiendo crear una oportunidad de acción para las causas en las que sí se podría hacer algo al respecto y preservar la vida humana.
 - La investigación se considera pertinente, ya que se espera construir una base para que en futuras investigaciones, se analice la enfermedad desde una perspectiva multifactorial, específica de cada región. Lo anterior, buscando que se den soluciones apropiadas para la situación de la población. 
-- Es importante conocer el porqué una enfermedad encontrada hace más de un siglo tiene una tasa de mortalidad alta (15% [1]) en tiempos donde la vacuna ya ha sido creada y efectiva.
+- Es importante conocer el porqué una enfermedad encontrada hace más de un siglo tiene una tasa de mortalidad alta (~15% [1]) en tiempos donde la vacuna ya ha sido creada y efectiva.
 
 ## Pregunta de Investigación
 
