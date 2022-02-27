@@ -26,6 +26,7 @@ Determinar la relación entre factores geográficos, socioeconómicos, culturale
   
 ## Referencias
 [1] "Tuberculosis", World Health Organization. [Online]. Available: https://www.who.int/es/news-room/fact-sheets/detail/tuberculosis. [Accessed: 26-Feb-2022].
+
 ## Integrantes
 - Jose Luis Acevedo Porras
 - David Alejandro Cortés Pinto
