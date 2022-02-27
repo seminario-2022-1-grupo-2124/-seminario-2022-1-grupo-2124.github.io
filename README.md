@@ -23,3 +23,12 @@ Determinar la relación entre factores geográficos, socioeconómicos, culturale
 2. Establecer y analizar la correlación entre los distintos factores externos entre los países estudiados y la tasa de mortalidad por la tuberculosis:
   2.1 Comparar países dentro del mismo continente, determinar las variables más pertinentes y analizar el porqué.
   2.2 Comparar las diferentes variables más pertinentes por continentes entre sí y determinar si hay patrones regionales y cuál puede ser la explicación.
+  
+## Integrantes
+- Jose Luis Acevedo Porras
+- David Alejandro Cortés Pinto
+- Miguel Ángel Galeano Rodríguez
+- María Juanita Mora Olaya
+- Brayan Stiven Peña Velásquez
+- María José Rey Sánchez
+- Anamaría Suárez Martínez
