@@ -24,6 +24,8 @@ Determinar la relación entre factores geográficos, socioeconómicos, culturale
   2.1 Comparar países dentro del mismo continente, determinar las variables más pertinentes y analizar el porqué.
   2.2 Comparar las diferentes variables más pertinentes por continentes entre sí y determinar si hay patrones regionales y cuál puede ser la explicación.
   
+## Referencias
+[1] "Tuberculosis", World Health Organization. [Online]. Available: https://www.who.int/es/news-room/fact-sheets/detail/tuberculosis. [Accessed: 26-Feb-2022].
 ## Integrantes
 - Jose Luis Acevedo Porras
 - David Alejandro Cortés Pinto
