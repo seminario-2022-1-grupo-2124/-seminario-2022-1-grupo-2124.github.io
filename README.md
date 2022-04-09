@@ -108,6 +108,9 @@ Por otro lado se hallará el coeficiente de correlación para cuantificar la int
 
 Por último, se utilizaran tablas dinámicas para la organización y filtración de la información, ya que es una herramienta avanzada para resumir y analizar una gran cantidad de datos para luego, ver comparaciones, patrones y tendencias entre ellos. 
 
+![Logo de Python](python-logo.png) <br>
+![Logo de skicit-learn](scikit-learn-logo.png) <br>
+
 ## Referencias
 [1] "Tuberculosis", World Health Organization. [Online]. Available: https://www.who.int/es/news-room/fact-sheets/detail/tuberculosis. [Accessed: 26-Feb-2022].
 
